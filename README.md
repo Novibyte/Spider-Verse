@@ -1,6 +1,6 @@
 # Spider-Man 2000: Project RE+
-Experience the Spider-Man 2000 game on Dreamcast by using the Flycast emulator on a whole different level! <br>
-Customize Spidey with a bunch of custom skins, as well some enemies and in-game characters.
+• Experience the Spider-Man 2000 game on Dreamcast by using the Flycast emulator on a whole different level! <br>
+• Customize Spidey with a bunch of custom skins, as well some enemies and in-game characters.
 
 # Features
 • Install brand new costumes and skins <br>
