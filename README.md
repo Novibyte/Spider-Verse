@@ -1,24 +1,19 @@
-# Spider-Man 2000: Project RE+
-• Experience the Spider-Man (2001) game with new content<br>
-• Customize Spidey with a bunch of custom skins, as well some enemies and in-game characters.
-
+# Spider-Man 2000: Project Spider-Verse
+Experience the Spider-Man 2000 game with even better content and newer suits than before. <br>
+The best All-in-One Pack for your Spider-Man 2000 game, offering over 250 skins.
 # Features
-• Install brand new costumes and skins <br>
+• Install brand new costumes and skins (Texture Size is 1024x1024) <br>
+• Super easy-to-use GUI-based tool <br>
 • Customize Spider-Man with a bunch of costumes <br>
-• Textures come along with a texture size of 1024x1024
+• Customize other in-game characters <br>
 
 # Content
-• Including Mod Menu <br>
-• Super easy-to-use GUI-based tool <br>
-• Update your Mod Menu to the latest version by using the Auto-Updater <br>
-• Including Project RE+ (250+ Skins) <br>
-• Including Mod Updater (Auto-Updater)
+• Including Mod Menu<br>
+• Including Project Spider-Verse (250+ Skins) <br>
 
 # How to play Spider-Man 2000 on the Flycast emulator?
 I do not offer any kind of download links to download it's ROM file.
 Please use Google...
-
-
 
 # Notes
 You need to install Flycast, it's one of the best Dreamcast Emulator to run the game.
