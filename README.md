@@ -1,5 +1,5 @@
 # Spider-Man 2000: Project Spider-Verse
-Experience the Spider-Man 2000 game with even better content and newer suits than before. <br>
+Experience the Spider-Man 2000 game with even better gameplay textures and newer suits than before. <br>
 The best All-in-One Pack for your Spider-Man 2000 game, offering over 250 skins.
 # Features
 • Install brand new costumes and skins (Texture Size is 1024x1024) <br>
