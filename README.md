@@ -7,7 +7,7 @@ Experience the Spider-Man (2001) game with even better gameplay textures and new
 🔥 Customize other in-game characters <br>
 
 # Content
-✅ Including Mod Menu<br>
+✅ Including Mod Menu <br>
 ✅ Including Project Spider-Verse (250+ Skins) <br>
 
 # How to play Spider-Man 2000 on the Flycast emulator?
