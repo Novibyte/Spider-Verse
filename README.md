@@ -1,7 +1,10 @@
+# Project: Spider-Verse v2.0
+> [!IMPORTANT]
+> **This project is getting updated daily, monthly or even yearly.**
 ## 🎮 DISCLAIMER
 ⛔ You are not allowed to upload or re-upload any file(s) or folder(s) on any website(s)! <br>
 ⛔ You are also not allowed to re-use the textures for own purposes or skin creation! <br>
-⛔ If you want to upload a preview / footage on YouTube or anywhere else related to this project, you MUST give the credits! <br>
+⛔ If you want to upload a preview / footage on YouTube or anywhere else, you **MUST** give the credits! <br>
 
 ## 🎮 MAIN
 📢 Experience the Spider-Man (2001) game with even better and upscaled textures! <br>
@@ -19,12 +22,13 @@
 ✅ Including Project Spider-Verse (250+ Skins) <br>
 
 ## 🎮 ABOUT THE GAME
-I do not offer any kind of download links to download it's ROM file.
-Please use Google...
+> [!CAUTION]
+> **I do not offer any kind of download links to download it's ROM file!** <br>
 
 ## 🎮 DOWNLOAD LINKS
-You need to install Flycast, it's one of the best Dreamcast Emulator to run the game.
-<br> Get Flycast: **https://flyinghead.github.io/flycast-builds/**
-
-**All rights reserved to respective owners and developers of Flycast**
-<br> **https://github.com/flyinghead/flycast**
+> [!NOTE]
+> **You need the Flycast Emulator in order to play the game with these mods!** <br>
+> **All rights reserved to respective owners and developers of Flycast!** <br> <br>
+Download Links: <br>
+**https://flyinghead.github.io/flycast-builds/** <br>
+**https://github.com/flyinghead/flycast**
