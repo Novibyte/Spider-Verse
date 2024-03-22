@@ -14,7 +14,7 @@ Experience the Spider-Man (2001) game with even better gameplay textures and new
 I do not offer any kind of download links to download it's ROM file.
 Please use Google...
 
-# Notes
+# How to get Flycast Emulator?
 You need to install Flycast, it's one of the best Dreamcast Emulator to run the game.
 <br> Get Flycast: **https://flyinghead.github.io/flycast-builds/**
 
