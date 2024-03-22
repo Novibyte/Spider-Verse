@@ -1,5 +1,4 @@
-# Spider-Man 2000: Project Spider-Verse
-# Version 2.0
+# Project: Spider-Verse v2.0
 Experience the Spider-Man (2001) game with even better gameplay textures and newer suits than ever before. <br>
 # Features
 • Install brand new costumes and skins (Texture Size is 1024x1024) <br>
