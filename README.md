@@ -1,6 +1,8 @@
 # Project: Spider-Verse v2.0
 > [!IMPORTANT]
-> **This project is getting updated daily, monthly or even yearly.**
+> + **This project is getting updated daily, monthly or even yearly.** <br>
+> + **Please check by chance for updates sometimes!**
+
 ## 🎮 DISCLAIMER
 ⛔ You are not allowed to upload or re-upload any file(s) or folder(s) on any website(s)! <br>
 ⛔ You are also not allowed to re-use the textures for own purposes or skin creation! <br>
@@ -23,12 +25,12 @@
 
 ## 🎮 ABOUT THE GAME
 > [!CAUTION]
-> **I do not offer any kind of download links to download it's ROM file!** <br>
+> **I do not offer any kind of download links to download any ROM file(s)!** <br>
 
-## 🎮 DOWNLOAD LINKS
+## 🎮 DOWNLOAD FLYCAST EMULATOR
 > [!NOTE]
-> **You need the Flycast Emulator in order to play the game with these mods!** <br>
-> **All rights reserved to respective owners and developers of Flycast!** <br> <br>
+> + **You need the Flycast Emulator in order to play the game with these mods!** <br>
+> + **All rights reserved to respective owners and developers of Flycast!** <br> <br>
 Download Links: <br>
 **https://flyinghead.github.io/flycast-builds/** <br>
 **https://github.com/flyinghead/flycast**
