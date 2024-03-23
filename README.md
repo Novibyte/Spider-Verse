@@ -3,7 +3,6 @@
 > [!IMPORTANT]
 > + **This project is getting updated daily, monthly or even yearly.** <br>
 > + **Please check by chance for updates sometimes!** <br>
-> + **The project has been NOT RELEASED YET!**
 ## 🌀 DISCLAIMER
 ⛔ You are not allowed to upload or re-upload any file(s) or folder(s) on any website(s)! <br>
 ⛔ You are also not allowed to re-use the textures for own purposes or skin creation! <br>
