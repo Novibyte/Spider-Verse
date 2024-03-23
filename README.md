@@ -1,4 +1,4 @@
-# Project: Spider-Verse v2.3
+# Project: Spider-Verse v2.0
 > [!IMPORTANT]
 > + **This project is getting updated daily, monthly or even yearly.** <br>
 > + **Please check by chance for updates sometimes!**
