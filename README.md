@@ -2,6 +2,7 @@
 > [!IMPORTANT]
 > + **This project is getting updated daily, monthly or even yearly.** <br>
 > + **Please check by chance for updates sometimes!**
+> + **Version 1.0.0 is no longer available since it is outdated!
 
 ## 🌀 DISCLAIMER
 ⛔ You are not allowed to upload or re-upload any file(s) or folder(s) on any website(s)! <br>
