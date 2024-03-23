@@ -1,8 +1,9 @@
-# Project: Spider-Verse v2.0 (COMING SOON!)
+# Project: Spider-Verse v2.0.0
 <img src="https://www.retroplace.com/pics/dreamcast/packshots/54905--spider-man.png" width="325" height="325"> <br>
 > [!IMPORTANT]
 > + **This project is getting updated daily, monthly or even yearly.** <br>
-> + **Please check by chance for updates sometimes!**
+> + **Please check by chance for updates sometimes!** <br>
+> + **The project will be released SOON!**
 ## 🌀 DISCLAIMER
 ⛔ You are not allowed to upload or re-upload any file(s) or folder(s) on any website(s)! <br>
 ⛔ You are also not allowed to re-use the textures for own purposes or skin creation! <br>
