@@ -1,4 +1,4 @@
-# Spider-Man 2000 - Project: Spider-Verse
+# Spider-Man (2000) - Project: Spider-Verse
 <img src="https://www.retroplace.com/pics/dreamcast/packshots/54905--spider-man.png" width="325" height="325"> <br>
 > [!IMPORTANT]
 > + **This project is getting updated daily, monthly or even yearly.** <br>
