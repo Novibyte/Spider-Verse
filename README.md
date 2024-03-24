@@ -18,7 +18,7 @@
 🔥 Customize in-game characters, items and more! <br>
 ## 🌀 CONTENT
 ✅ Including Mod Menu <br>
-✅ Including Project Spider-Verse (300+ Skins) <br>
+✅ Including Project: Spider-Verse (300+ Skins) <br>
 ## 🌀 ABOUT THE GAME
 > [!CAUTION]
 > **I do not offer any kind of download links to download any ROM file(s)!** <br>
