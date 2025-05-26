@@ -12,7 +12,6 @@
 📢 Includes over 300 brand new suits for Spidey! <br>
 📢 Brand new GUI-based Mod Menu
 ## 🌀 FEATURES
-🔥 Super easy-to-use GUI-based tool! <br>
 🔥 Install brand new costumes and skins! <br>
 🔥 Customize Spider-Man with a bunch of costumes! <br>
 🔥 Customize in-game characters, items and more! <br>
